@@ -171,7 +171,7 @@ Before you move on, let's cover one last callback that is useful:
 difference: it only gets called when a model is created for the first time.
 This means not every time the object is persisted, just when it is **new**.
 
-For more information on all of the callbacks available to you, check out [this
+For more information on all of the callbacks availablexe to you, check out [this
 amazing rails guide][callbacks]
 
 
